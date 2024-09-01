@@ -1,2 +1,3 @@
-# 이것은 [임베디드 소프트웨어 24] 공모전 파일
-# TEST VER
+This is [The World Embedded software Contest 2024] Participation file
+
+Version : alpha 1.0
